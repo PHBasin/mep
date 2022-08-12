@@ -1,9 +1,0 @@
-# Inventory of this playbook
-#
-[webservers]
-192.168.56.107
-192.168.56.108
-
-
-[dbservers]
-192.168.56.107
